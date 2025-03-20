@@ -1,7 +1,7 @@
 Hola Ahora es un texto correcto
 
 HOLA
-DANIEL
+JORGE
 
 PRIMERA MODIFICACIÓN
-Daniel
+JORGE
